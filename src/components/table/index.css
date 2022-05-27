@@ -1,0 +1,89 @@
+*{
+    background-color:white;
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    opacity: 80%;
+    color: rgba(53, 65, 64, 0.998);
+}
+
+.input-text{
+    margin-left: 31vh;
+    outline: none;
+    width: 190px;
+    height: 22px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.input-number{
+    margin-left: 9px;
+    height: 20px;
+    width: 55px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn-add{
+    margin-left: 5vh;
+    background-color: rgb(36, 108, 101);
+    color: white;
+    width: 25vh;
+    border: none;
+    outline: none;
+    border-radius: 9px;
+    margin-top: 19px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.btn{
+    background-color: rgb(36, 108, 101);
+    color: white;
+    margin-left: 5px;
+    border: none;
+    outline: none;
+    border-radius: 9px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.selects{
+    margin-left: 10px;
+    height: 20px;
+    width: 195px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+
+.container{
+    height: 10vh;
+    width: 60%;
+    margin-left: 15%;
+    background-image: linear-gradient(to right, rgba(3, 209, 133, 0.568), rgba(9, 96, 4, 0.727));
+}
+
+table{
+    background-color: rgb(109, 248, 211);
+    border: 1px solid black;
+}
+
+tr{
+    text-align: center;
+}
+
+th{
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+
+.title{
+    width: 20%;
+}
